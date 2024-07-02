@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **GreenHouse App**
+ 🔭 I’m currently working on **Intesis**
  
  🌱 I’m currently learning **Java, Hibernate, SpringBoot**
 
@@ -35,7 +35,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,mysql,c,cs,dotnet,eclipse" /><br>
+    <img src="https://skillicons.dev/icons?i=java,mysql,eclipse" /><br>
     <img src="https://skillicons.dev/icons?i=javascript,html,css,vscode,github,figma,git" />
 </div>
 
